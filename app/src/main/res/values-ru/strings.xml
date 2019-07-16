@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <string name="youtube_api_key">AIzaSyBXIkt2yT92DWzjRLs3n9oPcd2B7iKRzfs</string>
+
     // NETWORK ERROR
     <string name="er_title_def">Внимание !</string>
     <string name="er_message">Ошибка в тексте сообщения сервера</string>

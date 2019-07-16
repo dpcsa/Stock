@@ -8,7 +8,6 @@ public class StockAppParams extends AppParams {
         baseUrl =  "http://examples.delta.branderstudio.com/";
 
         youtubeApiKey = R.string.youtube_api_key;
-
         progressViewId = R.layout.dialog_progress;
         idStringDefaultErrorTitle = R.string.er_title_def;
         errorDialogViewId = R.id.error_dialog;
